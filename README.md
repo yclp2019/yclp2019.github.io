@@ -6,4 +6,4 @@
 
 ## 更新记录
 
-- jquery lazy load 插件，https://yclp2019.github.io/demos/lazyload，2017年11月29日 21:55:36
+- jquery lazy load 插件，https://yclp2019.github.io/demos/lazyload
