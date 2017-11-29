@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>lazy load 懒加载</title>
+</head>
+<body>
+	<div id="app">
+		<h2>lazy load 懒加载</h2>
+		<img class="lazyload" src="img/onepx.gif" data-src="img/1.jpg" width="640" height="427" />
+	</div>
+<script src="js/jquery.min.js"></script>
+<script src="js/lazyload.min.js"></script>
+<script>
+	$(".lazyload").lazyload();
+</script>
+</body>
+</html>
